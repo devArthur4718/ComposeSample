@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myCompose</string>
+    <string name="content_user_profile_pic">user profile pic</string>
+    <string name="message_ipsum">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou.</string>
+</resources>
